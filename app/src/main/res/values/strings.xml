@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="enter_your_title_here">Enter your title here..</string>
+    <string name="enter_your_note_here">Enter your note here..</string>
+    <string name="note">Note</string>
+</resources>
