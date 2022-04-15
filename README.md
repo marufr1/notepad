@@ -4,14 +4,13 @@ Notepad is an Android based note-taking app. This application is made using Andr
 ## Demo
 
 Here's a notepad application demo
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/oNCR6tL8L0U?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>
+https://youtu.be/oNCR6tL8L0U
 </p>
 
 ## ScreenShots:
 <p align="center">
-  <img src="https://i.ibb.co/JvMP64V/20220415-154837-0000.png" width="200">
+  <img src="https://i.ibb.co/JvMP64V/20220415-154837-0000.png" width="600">
 </p>
 <br>
 <br>
